@@ -1,0 +1,1 @@
+# Smart-Traffic-Solution-IR-Based-Detection-and-Automatic-Signal-Adjustment
